@@ -18,7 +18,7 @@
 
 ## [About][Top]
 
-![Logo](.docs/Logo.png | width=150)
+<img src=".docs/Logo.png" width="150" alt="Logo">
 
 **SharedMedia_Fontin** inserts additional fonts from [exljbris Font Foundry][exljbris] into SharedMediaLib's storage, including:
 - Delicious
