@@ -14,5 +14,4 @@
 
 Libs\LibStub\LibStub.lua
 
-Core.lua
 SharedMedia_Fontin.lua

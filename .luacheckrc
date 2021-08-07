@@ -18,6 +18,8 @@ exclude_files = {
 ---
 
 ignore = {
+	"212", -- Unused Argument
+	"631", -- Line Length
 }
 
 ----------------------------------------
