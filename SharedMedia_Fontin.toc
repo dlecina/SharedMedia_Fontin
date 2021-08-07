@@ -1,0 +1,18 @@
+## Interface: 90100
+## Interface-Retail: 90100
+## Interface-Classic: 11306
+## Interface-BCC: 20501
+
+## Title: SharedMedia_Fontin
+## Notes: Inserts additional fonts from exljbris Font Foundry into SharedMediaLib's storage.
+## Version: @project-version@
+## Author: dlecina
+## X-Website: https://github.com/dlecina/SharedMedia_Fontin
+## X-Category: Plugins
+## X-Curse-Project-ID: 513230
+## OptionalDeps: LibSharedMedia-3.0, LibSharedMedia-2.0, SharedMediaLib
+
+Libs\LibStub\LibStub.lua
+
+Core.lua
+SharedMedia_Fontin.lua

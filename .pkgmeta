@@ -1,0 +1,20 @@
+package-as: SharedMedia_Fontin
+
+externals:
+    Libs/LibStub:
+        url: svn://svn.wowace.com/wow/libstub/mainline/trunk
+        tag: latest
+
+ignore:
+  - .github
+  - .gitattributes
+  - .gitignore
+  - .luacheckrc
+  - .pkgmeta
+  - CHANGELOG.md
+  - LICENSE.txt
+  - README.md
+
+manual-changelog:
+    filename: CHANGELOG.md
+    markup-type: markdown
