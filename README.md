@@ -21,6 +21,7 @@
 <img src=".docs/Logo.png" width="150" alt="Logo">
 
 **SharedMedia_Fontin** inserts additional fonts from [exljbris Font Foundry][exljbris] into SharedMediaLib's storage, including:
+
 - Delicious
 - Diavlo
 - Fontin (as seen in [Path of Exile](https://www.pathofexile.com/forum/view-thread/52060)!)
