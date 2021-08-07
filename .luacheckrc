@@ -29,7 +29,7 @@ ignore = {
 read_globals = {
 	-- WoW API
 	"GetAddOnMetadata",
-	"GetLocale"
+	"GetLocale",
 	"CreateFrame",
 
 	-- Libraries
