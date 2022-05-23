@@ -49,6 +49,7 @@ For bug reports and suggestions, use the [issue tracker].
 ## [Links][Top]
 
 - [CurseForge][CurseForge]
+- [Wago][Wago]
 - [exljbris Font Foundry][exljbris]
 
 [Links]: #
@@ -64,6 +65,7 @@ For bug reports and suggestions, use the [issue tracker].
 [Issue Tracker]: https://github.com/dlecina/SharedMedia_Fontin/issues (Report an Issue)
 
 [CurseForge]: https://www.curseforge.com/wow/addons/sharedmedia_fontin (View on CurseForge)
+[Wago]: https://addons.wago.io/addons/sharedmedia-fontin (View on Wago Addons)
 [GitHub]: https://github.com/dlecina/SharedMedia_Fontin (View on GitHub)
 
 [exljbris]: https://www.exljbris.com/ (exljbris Font Foundry)
